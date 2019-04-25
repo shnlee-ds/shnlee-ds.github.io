@@ -1,0 +1,25 @@
+#본인 github 주소 입력
+url: https://SunghunLee.github.io
+baseurl: ""
+
+# Site settings
+#사이트이름 (탭에 보이는 이름)
+title: Sunghun Lee
+#사이트 이름 (메뉴에 보이는 이름)
+menu-title: "Data Science Portfolio: Sunghun Lee"
+#email 입력
+email: hnhsung@korea.ac.kr
+#간략한 meta 사이트 정보
+description: "Sunghun Lee Portfolio."
+
+
+# Team names, titles and social links
+people:
+- name: Sunghun Lee
+  pic: sunghun.jpg
+  email : hnhsung@korea.ac.kr
+  tel : +82-10-3466-0622
+
+# Build settings
+markdown: kramdown
+permalink: pretty
