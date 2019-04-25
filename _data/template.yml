@@ -1,0 +1,15 @@
+# Color settings (hex-codes without the leading hash-tag)
+# primary
+color:
+  #primary는 주된 background 색깔 및 버튼 색깔이며, secondary는 버튼의 background 색깔을 뜻합니다. link는 a tag시 글자 색깔입니다.
+  primary: 779ecb
+  secondary: 467cb9   
+  link: 315781
+  secondary-dark: 333
+  muted: 777
+
+# Font Families
+font:
+  #primary는 메인에서 IT's NICE TO MEET YOU와 같은 폰트에 일괄적으로 적용되며, secondary는 Welcome To Our Studio!와 같은 폰트에 일괄적으로 적용됩니다.
+  primary: 'Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif'
+  secondary: '"Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif'
